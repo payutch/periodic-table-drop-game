@@ -1,0 +1,5 @@
+{
+  "name": "Element Drop Zone",
+  "description": "An educational drag-and-drop game to help students learn the first 30 elements of the periodic table by placing them in their correct positions.",
+  "requestFramePermissions": []
+}
